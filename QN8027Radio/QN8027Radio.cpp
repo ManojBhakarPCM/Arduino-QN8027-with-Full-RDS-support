@@ -58,7 +58,7 @@ so multiplied freq will be only 12x4 = 48 Mhz !! :)
 
 RDS data format:
 RDS data is sent in one or more groups. a group is made of 104 bits which structure is-
-|			Block1				|			Block1				|			Block1				|			Block1				|
+|			Block1				|			Block2				|			Block3				|			Block4				|
 ---------------------------------------------------------------------------------------------------------------------------------
 |  16bit data |  10bitcheckword	|  16bit data |  10bitcheckword	|  16bit data |  10bitcheckword	|  16bit data |  10bitcheckword	|
 
